@@ -502,7 +502,7 @@ async function main() {
        
         
         await manageRepo({ name: 'plugins', url: 'https://github.com/vbcq-volley/plugin-build.git', path: './dist' });
-        await manageRepo({ name: 'source', url: 'https://github.com/listenbourg-legal/source.git', path: './source' });
+        await manageRepo({ name: 'source', url: 'https://github.com/france-nuit/source.git', path: './source' });
         await configureSafeDirectories()
         await extractModule("hexo");
         logger.log(typeof resolve)
