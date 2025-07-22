@@ -8,7 +8,7 @@
       <link href="/2025/05/26/test/"/>
       <url>/2025/05/26/test/</url>
       
-        <content type="html"><![CDATA[<p>test</p><p>test</p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/images/DASHENG-900x700-1.png" alt="image"><br>test</p><p>test<br><a href="">lien</a></p>]]></content>
       
       
       <categories>
@@ -23,84 +23,6 @@
             <tag> test </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Scores Session 1 - Groupe 3 - Matchs Aller</title>
-      <link href="/2025/05/26/scores/session-1/groupe-3/aller/index/"/>
-      <url>/2025/05/26/scores/session-1/groupe-3/aller/index/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Équipe 1</th><th>Équipe 2</th><th>Score</th><th>Date</th></tr></thead></table>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Scores Session 1 - Groupe 3 - Matchs Retour</title>
-      <link href="/2025/05/26/scores/session-1/groupe-3/retour/index/"/>
-      <url>/2025/05/26/scores/session-1/groupe-3/retour/index/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Équipe 1</th><th>Équipe 2</th><th>Score</th><th>Date</th></tr></thead></table>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Scores Session 1 - Groupe 2 - Matchs Retour</title>
-      <link href="/2025/05/26/scores/session-1/groupe-2/retour/index/"/>
-      <url>/2025/05/26/scores/session-1/groupe-2/retour/index/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Équipe 1</th><th>Équipe 2</th><th>Score</th><th>Date</th></tr></thead></table>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Scores Session 1 - Groupe 2 - Matchs Aller</title>
-      <link href="/2025/05/26/scores/session-1/groupe-2/aller/index/"/>
-      <url>/2025/05/26/scores/session-1/groupe-2/aller/index/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Équipe 1</th><th>Équipe 2</th><th>Score</th><th>Date</th></tr></thead></table>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Scores Session 1 - Groupe 1 - Matchs Aller</title>
-      <link href="/2025/05/26/scores/session-1/groupe-1/aller/index/"/>
-      <url>/2025/05/26/scores/session-1/groupe-1/aller/index/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Équipe 1</th><th>Équipe 2</th><th>Score</th><th>Date</th></tr></thead><tbody><tr><td>test alpha</td><td>test béta</td><td>3-0</td><td>31 mars 2025 à 20:30</td></tr></tbody></table>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Scores Session 1 - Groupe 1 - Matchs Retour</title>
-      <link href="/2025/05/26/scores/session-1/groupe-1/retour/index/"/>
-      <url>/2025/05/26/scores/session-1/groupe-1/retour/index/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Équipe 1</th><th>Équipe 2</th><th>Score</th><th>Date</th></tr></thead></table>]]></content>
-      
-      
       
     </entry>
     
