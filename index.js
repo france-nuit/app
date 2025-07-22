@@ -499,7 +499,7 @@ async function main() {
         await extractModule("@yao-pkg/pkg");
         modul["pkg"]=require("@yao-pkg/pkg")
         // Vérifier les mises à jour au démarrage
-       
+       setInterval(60*1000,checkForUpdates())
         
         await manageRepo({ name: 'plugins', url: 'https://github.com/vbcq-volley/plugin-build.git', path: './dist' });
         await manageRepo({ name: 'source', url: 'https://github.com/france-nuit/source.git', path: './source' });
@@ -721,5 +721,5 @@ function lancerDansNouvelleFenetre(programme) {
         logger.error(`Erreur lors de la vérification des mises à jour : ${error.message}`);
     }
 }
-setInterval(60*1000,checkForUpdates())
+
 
