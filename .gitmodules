@@ -1,12 +1,12 @@
 [submodule "plugin"]
 	path = plugin
-	url = https://github.com/vbcq-volley/plugin.git
+	url = https://github.com/france-nuit/plugin
 [submodule "dist"]
 	path = dist
-	url = https://github.com/vbcq-volley/plugin-build.git
+	url = https://github.com/france-nuit/plugin-build.git
 [submodule "git-win"]
 	path = git-win
 	url = https://github.com/vbcq-volley/git-win.git
 [submodule "pannel"]
 	path = pannel
-	url = https://github.com/alphaleadership/hexo-pro-client.git
+	url = https://github.com/france-nuit/hexo-pro-client.git
